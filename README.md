@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently perfecting my Python skills
 - 🌱 I will be learning R and Javascript languages in mere months.
-- [LinkedIn] (https://www.linkedin.com/in/r%C4%B1zacan-%C3%B6zcan-3949b71ba/)
+- [LinkedIn] (https://www.linkedin.com/in/rizacan-ozcan-3949b71ba/)
 - [Email] (mailto:rizacanozcan@hotmail.com)
