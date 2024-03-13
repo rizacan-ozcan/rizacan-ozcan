@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 🌱 I will be learning R and Javascript languages in mere months.
 - [LinkedIn] (https://www.linkedin.com/in/rizacan-ozcan-3949b71ba/)
 - [Email] (mailto:rizacanozcan@hotmail.com)
+- [Kaggle] (https://www.kaggle.com/rizacanozcan)
